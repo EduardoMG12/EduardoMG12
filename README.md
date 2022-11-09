@@ -2,7 +2,10 @@
   Olá eu sou Charles Eduardo
 </div>
 <div>
-  Sou apaixonado por programação e tecnologias, Front-end Developer
+  Sou apaixonado por programação e tecnologias 
+</div>
+<div>
+  Front-end Developer
 </div>
 <div>
   <a href="https://github.com/EduardoMG12">
