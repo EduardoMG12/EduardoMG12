@@ -1,4 +1,10 @@
 <div>
+  Olá eu sou Charles Eduardo
+</div>
+<div>
+  Sou apaixonado por programação e tecnologias, Front-end Developer
+</div>
+<div>
   <a href="https://github.com/EduardoMG12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMG12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMG12&layout=compact&langs_count=6&theme=midnight-purple"/>
