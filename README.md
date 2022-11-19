@@ -1,5 +1,6 @@
 <div>
   <h1>Olá eu sou Charles Eduardo</h1><div>
+  <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="./myOctocat.png">
 </div>
 <div>
   <h2>:computer: Front-end Developer</h2>
@@ -34,5 +35,4 @@
 </div><br>
   <div>
     <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
-    <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="./myOctocat.png">
   </div>
