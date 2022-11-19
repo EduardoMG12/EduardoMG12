@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá eu sou Charles Eduardo</h1><div>
+  <h1>Olá eu sou Charles Eduardo</h1>
   <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="./myOctocat.png">
 </div>
 <div>
