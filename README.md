@@ -34,5 +34,5 @@
 
 </div><br>
   <div>
-    <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
+    <img align="right" alt="um gatinho mexendo no computador" height="800" width="100%" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
   </div>
