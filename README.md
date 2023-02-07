@@ -14,15 +14,28 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMG12&layout=compact&langs_count=6&theme=dark"/>
 </div>
   <h2>Tecnologias e Ferramentas:</h2>
-  <div style="display: inline_block"><br> 
-  <img align="center" alt="java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</h4>
+<br>
+&nbsp;
+<p align="left">
+  <!-- javascript -->
+  <img align="center" title="JavaScript" alt="Ernane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- htm5 -->
+  <img align="center" title="HTML5" alt="Ernane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <!-- css3 -->
+  <img align="center" title="CSS3" alt="Ernane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- bootstrap -->
+  <img align="center" title="Bootstrap" alt="Ernane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg">
+  <!-- java -->
+  <img align="center" title="Java" alt="Ernane-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg">
+  <!-- React -->
+  <img align="center" alt="Ernane-react" title="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <!-- nodejs -->
+  <img align="center" alt="Ernane-nodejs" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <!-- loading... -->
+  <img align="center" title="Learning.." alt="Learning.." height="30" width="40" src="images/ernane-loading.gif">
+</p>
+&nbsp;
 </div>
  <br>
   <h2>Contatos</h2>
