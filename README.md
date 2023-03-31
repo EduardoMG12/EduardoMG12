@@ -13,21 +13,24 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoMG12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMG12&layout=compact&langs_count=6&theme=dark"/>
 </div>
-  <h2>Tecnologias e Ferramentas:</h2>
-</h4>
+  <h2>Plataforms:</h2>
+  <br>
+  <p>
+  <!-- linux -->
+  <img align="center" title="Linux" alt="Ernane-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ </p>
+  <h2>Skills:</h2>
 <br>
 &nbsp;
 <p align="left">
   <!-- javascript -->
   <img align="center" title="JavaScript" alt="Ernane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- typescript -->
+    <img align="center" title="TypeScript" alt="Ernane-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <!-- htm5 -->
   <img align="center" title="HTML5" alt="Ernane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!-- css3 -->
   <img align="center" title="CSS3" alt="Ernane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- bootstrap -->
-  <img align="center" title="Bootstrap" alt="Ernane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg">
-  <!-- java -->
-  <img align="center" title="Java" alt="Ernane-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg">
   <!-- React -->
   <img align="center" alt="Ernane-react" title="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <!-- nodejs -->
@@ -36,13 +39,25 @@
   <img align="center" title="Learning.." alt="Learning.." height="30" width="40" src="images/ernane-loading.gif">
 </p>
 &nbsp;
+<h2>Learning:</h2>
+<br>
+    <p>
+      <!-- nest -->
+       <img align="center" alt="Ernane-nest" title="Nest" height="30" width="40"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+      <!-- express -->
+  <img align="center" alt="Ernane-express" title="Express" height="30" width="40"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <!-- java -->
+  <img align="center" title="Java" alt="Ernane-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <!-- bootstrap -->
+  <img align="center" title="Bootstrap" alt="Ernane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg">
+    </p>
 </div>
  <br>
   <h2>Contatos</h2>
 <div> 
   <a href="https://instagram.com/charlesmellog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/8DenCnHx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/eduardomg12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardomg12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
