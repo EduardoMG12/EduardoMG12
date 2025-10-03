@@ -1,12 +1,12 @@
 <div>
-  <h1>Olá eu sou Charles Eduardo</h1>
+  <h1>Hi i'm Charles Eduardo</h1>
   <img align="right" alt="um gatinho mexendo no computador" height="300" width="360" src="images/myOctocat.png">
 </div>
 <div>
-  <h2>:computer: Front-end Developer</h2>
+  <h2>:computer: Just a Developer</h2>
 </div>
 <div>
-  <h2>:smile:Sou apaixonado por programação e tecnologias, conhecimento é o que me move.</h2>
+  <h2>:smile:I love develop and technologic, Knowledge is what moves me.</h2>
 </div>
 <div>
   <a href="https://github.com/EduardoMG12">
