@@ -10,7 +10,6 @@
 </div>
 <div>
   <a href="https://github.com/EduardoMG12">
-    <img src="https://streak-stats.demolab.com?user=EduardoMG12&theme=dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoMG12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMG12&layout=compact&langs_count=6&theme=dark"/>
 </div>
