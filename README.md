@@ -1,12 +1,14 @@
 <div align="center">
   <img align="right" alt="Cat typing on keyboard" height="150" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
-  <h1 align="left">Hi! I'm Charles Eduardo 👋</h1>
-  <h3 align="left">💻 Just a Developer | 🚀 Knowledge is what moves me.</h3>
+  <h1 align="left">Hi, I'm Eduardo 👋</h1>
+  <h3 align="left">Backend Software Engineer — Go · Rust · TypeScript · Distributed Systems</h3>
 </div>
 
 <br/>
 
-I'm a passionate developer transitioning through multiple ecosystems. I can handle myself well in **Python, TypeScript, Nest, Express, and Java**, but I have a huge preference and focus on building robust systems with **Go (Golang)** and **Rust**.
+Backend engineer focused on APIs, automation and system architecture that hold up under real production load. Currently building internal platforms and AI-assisted automation at **Addebitare** (Brazil). Previously full-stack at **Compass UOL** — AWS Certified Cloud Practitioner.
+
+Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go, Rust and Java/Spring** for systems that need heavier concurrency and performance.
 
 ---
 
@@ -18,6 +20,13 @@ I'm a passionate developer transitioning through multiple ecosystems. I can hand
 </div>
 
 <br/>
+
+## 📌 Featured Projects
+
+- **[horizon](https://github.com/EduardoMG12/horizon)** (Rust) — GPU-accelerated terminal board that puts all your sessions on an infinite canvas
+- **[ia-simpsons-cnn](https://github.com/EduardoMG12/ia-simpsons-cnn)** (Python) — character classification with Convolutional Neural Networks (TensorFlow/Keras)
+- **[cine](https://github.com/EduardoMG12/cine)** (Go)
+- **[payment-gateway-challenge](https://github.com/EduardoMG12/payment-gateway-challenge)** (TypeScript)
 
 ## 🛠️ Tech Stack & Skills
 
@@ -31,6 +40,7 @@ I'm a passionate developer transitioning through multiple ecosystems. I can hand
 <p align="center">
   <b>Backend & Frontend</b><br/>
   <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Spring" height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="NestJS" height="30" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Express.js" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -40,13 +50,11 @@ I'm a passionate developer transitioning through multiple ecosystems. I can hand
 </p>
 <br>
 <p align="center">
-  <b>Tools & OS</b><br/>
-  <img align="center" alt="Arch Linux" height="30" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img align="center" alt="Hyprland" height="30" src="https://img.shields.io/badge/Hyprland-00A477?style=for-the-badge&logo=hyprland&logoColor=black">
-  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="VS Code" height="30" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="IntelliJ IDEA" height="30" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <b>Cloud & Tools</b><br/>
+  <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Docker" height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Arch Linux" height="30" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
@@ -55,8 +63,8 @@ I'm a passionate developer transitioning through multiple ecosystems. I can hand
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardomg12" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:charles.eduardo.mello.guimaraes@hotmail.com" target="_blank"><img height="35" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://discord.gg/8DenCnHx" target="_blank"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
-  <a href="https://instagram.com/charlesmellog" target="_blank"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </div>
 
 <br>
