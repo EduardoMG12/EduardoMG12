@@ -23,10 +23,10 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 
 ## 📌 Featured Projects
 
-- **[horizon](https://github.com/EduardoMG12/horizon)** (Rust) — GPU-accelerated terminal board that puts all your sessions on an infinite canvas
+- **[payment-gateway-challenge](https://github.com/EduardoMG12/payment-gateway-challenge)** (Rust · Go · React) — distributed payment gateway, exploring systems architecture in the fintech domain
+- **[kitnet](https://github.com/EduardoMG12/kitnet)** (TypeScript) — full-stack real estate platform connecting owners, brokers and tenants
+- **[3dPortfolio](https://github.com/EduardoMG12/3dPortfolio)** (TypeScript · Three.js) — [live demo](https://3d-portfolio-charles-eduardo.vercel.app/)
 - **[ia-simpsons-cnn](https://github.com/EduardoMG12/ia-simpsons-cnn)** (Python) — character classification with Convolutional Neural Networks (TensorFlow/Keras)
-- **[cine](https://github.com/EduardoMG12/cine)** (Go)
-- **[payment-gateway-challenge](https://github.com/EduardoMG12/payment-gateway-challenge)** (TypeScript)
 
 ## 🛠️ Tech Stack & Skills
 
