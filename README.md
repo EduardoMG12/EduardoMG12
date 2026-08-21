@@ -24,6 +24,7 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 ## 📌 Featured Projects
 
 - **[payment-gateway-challenge](https://github.com/EduardoMG12/payment-gateway-challenge)** (Rust · Go · React) — distributed payment gateway, exploring systems architecture in the fintech domain
+- **[woovi-playground](https://github.com/EduardoMG12/woovi-playground)** (GraphQL · Node.js · MongoDB) — technical challenge for a real job opening at [Woovi](https://woovi.com): accounts, deposits and transaction/ledger logic
 - **[kitnet](https://github.com/EduardoMG12/kitnet)** (TypeScript) — full-stack real estate platform connecting owners, brokers and tenants
 - **[3dPortfolio](https://github.com/EduardoMG12/3dPortfolio)** (TypeScript · Three.js) — [live demo](https://3d-portfolio-charles-eduardo.vercel.app/)
 - **[ia-simpsons-cnn](https://github.com/EduardoMG12/ia-simpsons-cnn)** (Python) — character classification with Convolutional Neural Networks (TensorFlow/Keras)
