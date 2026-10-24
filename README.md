@@ -12,11 +12,37 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 
 ---
 
+## 🧸 What I'm building
+
 <div align="center">
-  <a href="https://github.com/EduardoMG12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMG12&show_icons=true&theme=aurora&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMG12&layout=compact&langs_count=8&theme=aurora&hide_border=true&bg_color=0d1117&custom_title=Most%20Used%20Languages"/>
-  </a>
+
+<img src="images/mascotes.webp" alt="Mascot select screen cycling through Anil (Urso Azul), Jato (Talavado), Ratão (Mickey) and Procyon" width="100%">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Anil · Urso Azul</b><br>
+      <sub>Engineering that has your back.</sub><br><br>
+      <a href="https://ursoazul.com.br"><img src="https://img.shields.io/badge/Start_a_project-5b8cff?style=for-the-badge&logoColor=white" alt="Start a project at ursoazul.com.br"></a>
+    </td>
+    <td align="center" width="25%">
+      <b>Jato · Talavado</b><br>
+      <sub>Works while you wash.</sub><br><br>
+      <a href="https://talavado.com"><img src="https://img.shields.io/badge/Try_14_days_free-ff9a3c?style=for-the-badge" alt="Try Talavado 14 days free"></a>
+    </td>
+    <td align="center" width="25%">
+      <b>Ratão · Mickey</b><br>
+      <sub>One keyboard and mouse for every computer.</sub><br><br>
+      <a href="https://github.com/EduardoMG12/mickey"><img src="https://img.shields.io/github/stars/EduardoMG12/mickey?style=for-the-badge&logo=github&label=Star&color=b18ad6" alt="Star Mickey on GitHub"></a>
+    </td>
+    <td align="center" width="25%">
+      <b>Procyon</b><br>
+      <sub>Security QA for your API, before it ships.</sub><br><br>
+      <a href="https://github.com/EduardoMG12/procyon"><img src="https://img.shields.io/github/stars/EduardoMG12/procyon?style=for-the-badge&logo=github&label=Star&color=3ddc97" alt="Star Procyon on GitHub"></a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
