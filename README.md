@@ -18,8 +18,8 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 
 <a href="https://hypedeveloper.com">
   <picture>
-    <source srcset="images/mascotes.avif" type="image/avif">
-    <img src="images/mascotes.webp" alt="Mascot select screen cycling through Anil (Urso Azul), Jato (Talavado), Ratão (Mickey) and Procyon. Click to open hypedeveloper.com" width="100%">
+    <source srcset="https://raw.githubusercontent.com/EduardoMG12/EduardoMG12/main/images/mascotes.avif" type="image/avif">
+    <img src="https://raw.githubusercontent.com/EduardoMG12/EduardoMG12/main/images/mascotes.webp" alt="Mascot select screen cycling through Anil (Urso Azul), Jato (Talavado), Ratão (Mickey) and Procyon. Click to open hypedeveloper.com" width="100%">
   </picture>
 </a>
 
