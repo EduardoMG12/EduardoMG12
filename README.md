@@ -19,17 +19,12 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 <a href="https://hypedeveloper.com">
   <picture>
     <source srcset="https://raw.githubusercontent.com/EduardoMG12/EduardoMG12/main/images/mascotes.avif" type="image/avif">
-    <img src="https://raw.githubusercontent.com/EduardoMG12/EduardoMG12/main/images/mascotes.webp" alt="Mascot select screen cycling through Anil (Urso Azul), Jato (Talavado), Ratão (Mickey) and Procyon. Click to open hypedeveloper.com" width="100%">
+    <img src="https://raw.githubusercontent.com/EduardoMG12/EduardoMG12/main/images/mascotes.webp" alt="Mascot select screen cycling through Jato (Talavado), Ratão (Mickey), Procyon and Sailon (papo). Click to open hypedeveloper.com" width="100%">
   </picture>
 </a>
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <b>Anil · Urso Azul</b><br>
-      <sub>Engineering that has your back.</sub><br><br>
-      <a href="https://ursoazul.com.br"><img src="https://img.shields.io/badge/Start_a_project-5b8cff?style=for-the-badge&logoColor=white" alt="Start a project at ursoazul.com.br"></a>
-    </td>
     <td align="center" width="25%">
       <b>Jato · Talavado</b><br>
       <sub>Works while you wash.</sub><br><br>
@@ -45,6 +40,11 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
       <sub>Security QA for your API, before it ships.</sub><br><br>
       <a href="https://github.com/EduardoMG12/procyon"><img src="https://img.shields.io/github/stars/EduardoMG12/procyon?style=for-the-badge&logo=github&label=Star&color=3ddc97" alt="Star Procyon on GitHub"></a>
     </td>
+    <td align="center" width="25%">
+      <b>Sailon · papo</b><br>
+      <sub>The WhatsApp behind my SaaS. Private microservice.</sub><br><br>
+      <a href="https://papo.hypedeveloper.com"><img src="https://img.shields.io/badge/See_how_it_works-7ed957?style=for-the-badge" alt="See how papo works at papo.hypedeveloper.com"></a>
+    </td>
   </tr>
 </table>
 
@@ -54,6 +54,9 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
 
 ## 📌 Featured Projects
 
+- **[mickey](https://github.com/EduardoMG12/mickey)** (Rust · Linux · Windows) — one keyboard, mouse and clipboard shared across every computer on the network: push the cursor off one screen and it lands on the next PC; encrypted and paired by code — [mickey.hypedeveloper.com](https://mickey.hypedeveloper.com)
+- **[procyon](https://github.com/EduardoMG12/procyon)** (Go · OpenAPI · CI) — automated security QA for APIs: reads your OpenAPI spec and fails the build when the design leaves a door open (unauthenticated operations, leaked secrets, privilege escalation) — [procyon.hypedeveloper.com](https://procyon.hypedeveloper.com)
+- **[papo](https://papo.hypedeveloper.com)** (Go · Postgres · WhatsApp) — private messaging microservice behind my SaaS products (closed source): apps send an intent and papo decides if, when and how to message, with opt-in, number warm-up, rate limits and a Postgres queue with per-chat ordering
 - **[payment-gateway-challenge](https://github.com/EduardoMG12/payment-gateway-challenge)** (Rust · Go · React) — distributed payment gateway, exploring systems architecture in the fintech domain
 - **[woovi-playground](https://github.com/EduardoMG12/woovi-playground)** (GraphQL · Node.js · MongoDB) — technical challenge for a real job opening at [Woovi](https://woovi.com): accounts, deposits and transaction/ledger logic
 - **[kitnet](https://github.com/EduardoMG12/kitnet)** (TypeScript) — full-stack real estate platform connecting owners, brokers and tenants

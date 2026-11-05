@@ -1,8 +1,8 @@
 name: Profile stats
 
 on:
-  schedule: # every day at 06:00 UTC
-    - cron: "0 6 * * *"
+  schedule: # every 6 hours
+    - cron: "17 */6 * * *"
   push:
     branches: [main]
     paths: [scripts/stats.mjs, .github/workflows/stats.yml]

@@ -68,7 +68,7 @@ const out = [];
 
 // Cabeçalho
 out.push(`<text x="${PAD}" y="44" class="title">GitHub activity</text>`);
-out.push(`<text x="${W - PAD}" y="44" class="sub" text-anchor="end">LAST 12 MONTHS · UPDATED DAILY</text>`);
+out.push(`<text x="${W - PAD}" y="44" class="sub" text-anchor="end">LAST 12 MONTHS · UPDATED EVERY 6H</text>`);
 
 // Números
 const stats = [
