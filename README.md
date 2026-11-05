@@ -28,7 +28,7 @@ Core stack: **TypeScript, NestJS, Node.js, Docker, AWS** — deepening into **Go
     <td align="center" width="25%">
       <b>Jato · Talavado</b><br>
       <sub>Works while you wash.</sub><br><br>
-      <a href="https://talavado.com"><img src="https://img.shields.io/badge/Try_14_days_free-ff9a3c?style=for-the-badge" alt="Try Talavado 14 days free"></a>
+      <a href="https://talavado.com"><img src="https://img.shields.io/badge/See_it_live-ff9a3c?style=for-the-badge" alt="See Talavado live at talavado.com"></a>
     </td>
     <td align="center" width="25%">
       <b>Ratão · Mickey</b><br>

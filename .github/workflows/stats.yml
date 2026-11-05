@@ -21,7 +21,9 @@ jobs:
           node-version: 22
       - run: node scripts/stats.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # A classic token with repo + read:org, so private and organization repos count too.
+          # Without it, the card falls back to public repos only.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
