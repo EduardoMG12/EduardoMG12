@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="510" viewBox="0 0 880 510" role="img" aria-label="Commit activity for EduardoMG12 across public and private repositories, by year, by organization and by language">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .title { font-size: 19px; font-weight: 600; fill: #e6edf3; }
+  .h { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+  .sub, .note { font-size: 11px; fill: #7d8590; letter-spacing: .04em; }
+  .value { font-size: 26px; font-weight: 700; fill: #e6edf3; }
+  .label { font-size: 13px; fill: #8b949e; }
+  .name { font-size: 13px; fill: #c9d1d9; }
+  .pct { font-size: 12px; fill: #8b949e; font-family: ui-monospace, 'JetBrains Mono', Menlo, monospace; }
+</style>
+<rect x=".5" y=".5" width="879" height="509" rx="14" fill="#0b1324" stroke="#1f2a44"/>
+<text x="32" y="44" class="title">Engineering activity</text>
+<text x="848" y="44" class="sub" text-anchor="end">PUBLIC + PRIVATE REPOS, INCL. ORGANIZATIONS</text>
+<rect x="32" y="68" width="195" height="98" rx="10" fill="#111c33" stroke="#1f2a44"/>
+<text x="50" y="108" class="value">9,766</text>
+<text x="50" y="130" class="label">commits</text>
+<text x="50" y="150" class="note">all time</text>
+<rect x="239" y="68" width="195" height="98" rx="10" fill="#111c33" stroke="#1f2a44"/>
+<text x="257" y="108" class="value">7,893</text>
+<text x="257" y="130" class="label">commits</text>
+<text x="257" y="150" class="note">last 12 months</text>
+<rect x="446" y="68" width="195" height="98" rx="10" fill="#111c33" stroke="#1f2a44"/>
+<text x="464" y="108" class="value">131</text>
+<text x="464" y="130" class="label">repositories</text>
+<text x="464" y="150" class="note">with my commits</text>
+<rect x="653" y="68" width="195" height="98" rx="10" fill="#111c33" stroke="#1f2a44"/>
+<text x="671" y="108" class="value">6</text>
+<text x="671" y="130" class="label">organizations</text>
+<text x="671" y="150" class="note">committed to</text>
+<text x="32" y="210" class="h">Commits per year</text>
+<rect x="49.0" y="333.2" width="60.6" height="2.8" rx="4" fill="#2c4a8f"/>
+<text x="79.3" y="326.2" class="pct" text-anchor="middle">232</text>
+<text x="79.3" y="354" class="name" text-anchor="middle">2022</text>
+<rect x="143.7" y="332.6" width="60.6" height="3.4" rx="4" fill="#2c4a8f"/>
+<text x="174.0" y="325.6" class="pct" text-anchor="middle">275</text>
+<text x="174.0" y="354" class="name" text-anchor="middle">2023</text>
+<rect x="238.4" y="334.0" width="60.6" height="2.0" rx="4" fill="#2c4a8f"/>
+<text x="268.6" y="327.0" class="pct" text-anchor="middle">87</text>
+<text x="268.6" y="354" class="name" text-anchor="middle">2024</text>
+<rect x="333.0" y="319.4" width="60.6" height="16.6" rx="4" fill="#2c4a8f"/>
+<text x="363.3" y="312.4" class="pct" text-anchor="middle">1,352</text>
+<text x="363.3" y="354" class="name" text-anchor="middle">2025</text>
+<rect x="427.7" y="240.0" width="60.6" height="96.0" rx="4" fill="#5b8cff"/>
+<text x="458.0" y="233.0" class="pct" text-anchor="middle">7,820</text>
+<text x="458.0" y="354" class="name" text-anchor="middle">2026</text>
+<text x="545.28" y="210" class="h">Where the commits go</text>
+<clipPath id="split"><rect x="545.28" y="232" width="302.72" height="10" rx="5"/></clipPath><g clip-path="url(#split)">
+<rect x="545.28" y="232" width="153.9" height="10" fill="#8b5cf6"/>
+<rect x="699.2" y="232" width="148.8" height="10" fill="#22c3a6"/></g>
+<circle cx="550.28" cy="267" r="5" fill="#8b5cf6"/>
+<text x="562.28" y="272" class="name">Organizations</text>
+<text x="848" y="272" class="pct" text-anchor="end">50.8%</text>
+<circle cx="550.28" cy="293" r="5" fill="#22c3a6"/>
+<text x="562.28" y="298" class="name">Personal projects</text>
+<text x="848" y="298" class="pct" text-anchor="end">49.2%</text>
+<text x="32" y="398" class="h">Languages I commit in</text>
+<text x="848" y="398" class="note" text-anchor="end">each repo's language mix, weighted by my commits to it</text>
+<clipPath id="langs"><rect x="32" y="414" width="816" height="10" rx="5"/></clipPath><g clip-path="url(#langs)">
+<rect x="32.00" y="414" width="363.65" height="10" fill="#3178c6"/>
+<rect x="395.15" y="414" width="182.23" height="10" fill="#4f5d95"/>
+<rect x="576.88" y="414" width="122.35" height="10" fill="#00add8"/>
+<rect x="698.73" y="414" width="64.42" height="10" fill="#dea584"/>
+<rect x="762.65" y="414" width="22.48" height="10" fill="#3572a5"/>
+<rect x="784.63" y="414" width="20.42" height="10" fill="#b07219"/>
+<rect x="804.55" y="414" width="17.99" height="10" fill="#f1e05a"/>
+<rect x="822.03" y="414" width="26.47" height="10" fill="#6b7280"/>
+</g>
+<circle cx="37" cy="449" r="5" fill="#3178c6"/>
+<text x="49" y="454" class="name">TypeScript</text>
+<text x="208" y="454" class="pct" text-anchor="end">44.5%</text>
+<circle cx="241" cy="449" r="5" fill="#4f5d95"/>
+<text x="253" y="454" class="name">PHP</text>
+<text x="412" y="454" class="pct" text-anchor="end">22.3%</text>
+<circle cx="445" cy="449" r="5" fill="#00add8"/>
+<text x="457" y="454" class="name">Go</text>
+<text x="616" y="454" class="pct" text-anchor="end">14.9%</text>
+<circle cx="649" cy="449" r="5" fill="#dea584"/>
+<text x="661" y="454" class="name">Rust</text>
+<text x="820" y="454" class="pct" text-anchor="end">7.8%</text>
+<circle cx="37" cy="475" r="5" fill="#3572a5"/>
+<text x="49" y="480" class="name">Python</text>
+<text x="208" y="480" class="pct" text-anchor="end">2.7%</text>
+<circle cx="241" cy="475" r="5" fill="#b07219"/>
+<text x="253" y="480" class="name">Java</text>
+<text x="412" y="480" class="pct" text-anchor="end">2.4%</text>
+<circle cx="445" cy="475" r="5" fill="#f1e05a"/>
+<text x="457" y="480" class="name">JavaScript</text>
+<text x="616" y="480" class="pct" text-anchor="end">2.1%</text>
+<circle cx="649" cy="475" r="5" fill="#6b7280"/>
+<text x="661" y="480" class="name">Other</text>
+<text x="820" y="480" class="pct" text-anchor="end">3.2%</text>
+</svg>
